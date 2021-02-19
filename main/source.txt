@@ -6,9 +6,9 @@ local UsingAutoExecute = false
 if not game:IsLoaded() then
 	UsingAutoExecute = true
 	local NLoaded = Instance.new("Hint",workspace)
-	NLoaded.Text = 'Domain - Waiting'
+	NLoaded.Text = 'Cyberhood - Waiting'
 	game.Loaded:Wait()
-	NLoaded.Text = 'Domain - Loaded'
+	NLoaded.Text = 'Cyberhood - Loaded'
 	wait(1)
 	NLoaded:Destroy()
 	repeat wait(1) until game:IsLoaded() 
