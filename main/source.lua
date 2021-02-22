@@ -2179,7 +2179,7 @@ Developers = {
 }
 
 Banned = {
-	RxalTaka = 73430439,
+
 } -- Users who post malicious content in the server etc
 
 AntiExploits = {
