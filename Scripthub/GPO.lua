@@ -1,5 +1,5 @@
 if game.PlaceId == 2753915549 then ---BLOX FRUITS
-    local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vep1032/VepStuff/main/VLi"))()
+    local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Libs/BloxFruitsLIB.lua"))()
 
     local win = Lib:Window("Cyberhood")
 
