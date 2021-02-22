@@ -2359,6 +2359,13 @@ FeaturedExploits = {
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://pastebin.com/raw/euzqMZgq"
 	},
+	unnamedesp = {
+		Name = "Unnamed ESP",
+		Author = "Synapse X",
+		ImageID = 0,
+		Colour = Color3.fromRGB(71, 116, 170),
+		Code = "https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"
+	},
 
 
 }
