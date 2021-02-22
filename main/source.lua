@@ -2369,13 +2369,6 @@ FeaturedExploits = {
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
-	},
-	streamsniper = {
-		Name = "Streamsniper",
-		Author = "Taka",
-		ImageID = 0,
-		Colour = Color3.fromRGB(255, 0, 0),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Streamsniper.lua"
 	}
 
 }
