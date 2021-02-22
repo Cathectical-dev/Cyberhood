@@ -2373,7 +2373,7 @@ FeaturedExploits = {
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Bad%20Business.lua"
 	},
 	bloodsamurai = {
-		Name = "Blood Samurai",
+		Name = "Blood Samurai 2",
 		Author = "Taka",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
