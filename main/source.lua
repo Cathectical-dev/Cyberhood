@@ -2178,7 +2178,7 @@ Developers = {
 	RxalTaka = 73430439,
 }
 
-Banned = {} -- Users who post malicious content in the server etc
+Banned = {"RxalTaka"} -- Users who post malicious content in the server etc
 
 AntiExploits = {
 
@@ -2308,7 +2308,6 @@ BackgroundExploits = {
 		Name = "Auto RB UI",
 		PlaceIds = {579955134},
 		Loadstring = "https://pastebin.com/raw/bHQ8dyX8",
-
 	},
 	roghoul = {
 		Name = "Ro-Ghoul",
