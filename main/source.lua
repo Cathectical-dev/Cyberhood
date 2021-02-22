@@ -2336,6 +2336,11 @@ BackgroundExploits = {
 		Name = "Car Crushers 2 Autofarm",
 		PlaceIds = {654732683},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/CarCrushers2Autofarm.lua"
+	},
+	auniversaltime = {
+		Name = "A Universal Time",
+		PlaceIds = {5130598377},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/A_universal_time.lua"
 	}
 
 }
