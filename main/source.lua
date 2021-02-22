@@ -2175,7 +2175,7 @@ DomainShowcase = {
 
 
 Developers = {
-	,
+	
 }
 
 Banned = {
