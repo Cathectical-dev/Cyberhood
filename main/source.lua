@@ -2320,7 +2320,7 @@ WriteFileFixPlayers = {
 
 	"zipperheadbatsoup",
 }
-
+----- SCRIPTHUBSTART
 FeaturedExploits = {
 
 	BarrierRemover = {
@@ -2386,12 +2386,12 @@ FeaturedExploits = {
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Tapping%20Masters.lua"
 	},
-	grandpieceonline = {
-		Name = "Grand Piece Online",
+	arsenal = {
+		Name = "Arsenal",
 		Author = "Taka",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/GPO.lua"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Arsenal.lua"
 	},	
 
 }
