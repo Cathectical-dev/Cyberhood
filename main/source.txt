@@ -2363,28 +2363,28 @@ FeaturedExploits = {
 		Author = "The Void",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/islands.lua"
 	},
 	badbusiness = {
 		Name = "Bad Business",
 		Author = "Taka",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Bad%20Business.lua"
 	},
 	bloodsamurai = {
 		Name = "Blood Samurai",
 		Author = "Taka",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua"
 	},	
 	tappingmasters = {
 		Name = "Tapping Masters",
 		Author = "Taka",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Tapping%20Masters.lua"
 	},	
 
 }
