@@ -2267,7 +2267,7 @@ BackgroundExploits = {
 	arsenal = {
 		Name = "Arsenal UI",
 		PlaceIds = {286090429},
-		Loadstring = "https://raw.githubusercontent.com/NougatBitz/DuckHub/master/Main.lua",
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Arsenal.lua",
 	},
 	madcity = {
 		Name = "Mad City UI",
@@ -2385,13 +2385,6 @@ FeaturedExploits = {
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Tapping%20Masters.lua"
-	},
-	arsenal = {
-		Name = "Arsenal",
-		Author = "Taka",
-		ImageID = 0,
-		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Arsenal.lua"
 	},	
 
 }
