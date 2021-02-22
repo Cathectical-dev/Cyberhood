@@ -2282,9 +2282,9 @@ BackgroundExploits = {
 		Loadstring = "https://raw.githubusercontent.com/iQAIRHUB/Project-Ripple/main/D-DAY/V3.0.3",
 	},
 	murdermystery = {
-		Name = "MM2 Customised ESP",
+		Name = "MM2 GUI",
 		PlaceIds = {142823291},
-		Loadstring = "https://pastebin.com/raw/NjzcBZXC",
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/mm2.lua",
 	},
 	beesim = {
 		Name = "BSS Auto-farm UI",
