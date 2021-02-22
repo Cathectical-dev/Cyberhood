@@ -2175,10 +2175,12 @@ DomainShowcase = {
 
 
 Developers = {
-	RxalTaka = 73430439,
+	,
 }
 
-Banned = {"RxalTaka"} -- Users who post malicious content in the server etc
+Banned = {
+	RxalTaka = 73430439,
+} -- Users who post malicious content in the server etc
 
 AntiExploits = {
 
@@ -2429,6 +2431,7 @@ function AntiKick()
 		method = getnamecallmethod()
 		if method == "Kick" then
 			Notify("We stopped this game from kicking you locally","GothamBold")
+			
 			wait(9e9)
 			return
 		end
@@ -2475,7 +2478,7 @@ function Start()
 		mainDomain.PromptExploit.Visible = false
 		mainDomain.Players.Visible = false
 		Notify("You have been banned from using Cyberhood, Appeal in the Discord or by messaging Taka")
-		wait(10)
+		wait(3)
 		mainDomain.mainDomain:Destroy()
 		else
 	
