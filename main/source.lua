@@ -3529,7 +3529,7 @@ game.Players.PlayerAdded:Connect(function(Player)
 	AddToList(Player)
 	if table.find(Developers,Player.UserId) then
 		wait(2)
-		Notify("Shlex has joined your server","GothamBold")
+		Notify("Taka has joined your server","GothamBold")
 	end
 	if table.find(Admins,Player.UserId) then
 		wait(2)
