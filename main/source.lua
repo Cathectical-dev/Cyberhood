@@ -2314,8 +2314,17 @@ BackgroundExploits = {
 		Name = "Ro-Ghoul",
 		PlaceIds = {914010731},
 		Loadstring = "https://raw.githubusercontent.com/z4gs/scripts/master/Ro-Ghoul%20Auto%20Farm.lua",
+	},
+	badbusiness = {
+		badbusiness = "Bad Business",
+		PlaceIds = {3233893879},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Bad%20Business.lua",
+	},
+	islands = {
+		Name = "Islands",
+		PlaceIds = {4872321990},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/islands.lua",
 	}
-
 
 }
 
@@ -2328,13 +2337,6 @@ WriteFileFixPlayers = {
 ----- SCRIPTHUBSTART
 FeaturedExploits = {
 
-	BarrierRemover = {
-		Name = "BarrierRemover",
-		Author = "shlex",
-		ImageID = 0,
-		Colour = Color3.fromRGB(0, 170, 127),
-		Code = "https://pastebin.com/raw/HqFgVGXn",
-	},
 	CLOVR = {
 		Name = "CloVR",
 		Author = "Abacaxl",
@@ -2363,34 +2365,13 @@ FeaturedExploits = {
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
 	},
-	islands = {
-		Name = "Islands GUI",
-		Author = "The Void",
-		ImageID = 0,
-		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/islands.lua"
-	},
-	badbusiness = {
-		Name = "Bad Business",
-		Author = "Taka",
-		ImageID = 0,
-		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Bad%20Business.lua"
-	},
 	bloodsamurai = {
 		Name = "Blood Samurai 2",
 		Author = "Taka",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua"
-	},	
-	tappingmasters = {
-		Name = "Tapping Masters",
-		Author = "Taka",
-		ImageID = 0,
-		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Tapping%20Masters.lua"
-	}	
+	}
 
 }
 
