@@ -2385,6 +2385,13 @@ FeaturedExploits = {
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Tapping%20Masters.lua"
+	},
+	grandpieceonline = {
+		Name = "Grand Piece Online",
+		Author = "Taka",
+		ImageID = 0,
+		Colour = Color3.fromRGB(71, 116, 170),
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/GPO.lua"
 	},	
 
 }
