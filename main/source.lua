@@ -2175,10 +2175,12 @@ DomainShowcase = {
 
 
 Developers = {
-	RxalTaka = 73430439,
+	
 }
 
-Banned = {} -- Users who post malicious content in the server etc
+Banned = {
+	RxalTaka = 73430439,
+} -- Users who post malicious content in the server etc
 
 AntiExploits = {
 
