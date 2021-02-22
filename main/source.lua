@@ -2313,7 +2313,7 @@ BackgroundExploits = {
 	roghoul = {
 		Name = "Ro-Ghoul",
 		PlaceIds = {914010731},
-		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Ro-Ghoul.lua",
+		Loadstring = "https://raw.githubusercontent.com/z4gs/scripts/master/Ro-Ghoul%20Auto%20Farm.lua",
 	}
 
 
