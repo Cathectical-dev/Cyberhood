@@ -2324,6 +2324,11 @@ BackgroundExploits = {
 		Name = "Islands",
 		PlaceIds = {4872321990},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/islands.lua",
+	},
+	bloodsamurai = {
+		Name = "Blood Samurai 2",
+		PlaceIds = {5617626326},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua",
 	}
 
 }
@@ -2364,13 +2369,6 @@ FeaturedExploits = {
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
-	},
-	bloodsamurai = {
-		Name = "Blood Samurai 2",
-		Author = "Taka",
-		ImageID = 0,
-		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua"
 	}
 
 }
