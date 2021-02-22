@@ -3507,7 +3507,7 @@ game.Players.PlayerAdded:Connect(function(Player)
 	end
 	if table.find(Admins,Player.UserId) then
 		wait(2)
-		Notify("Domain Admin "..Player.Name.." has joined your server","GothamBold")
+		Notify("Cyberhood Admin "..Player.Name.." has joined your server","GothamBold")
 	end
 end)
 
