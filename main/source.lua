@@ -2175,11 +2175,11 @@ DomainShowcase = {
 
 
 Developers = {
-	
+	RxalTaka = 73430439,
 }
 
 Banned = {
-	RxalTaka = 73430439,
+
 } -- Users who post malicious content in the server etc
 
 AntiExploits = {
@@ -2331,6 +2331,11 @@ BackgroundExploits = {
 		Name = "Blood Samurai 2",
 		PlaceIds = {5617626326},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua",
+	},
+	carcrushers2 = {
+		Name = "Car Crushers 2 Autofarm",
+		PlaceIds = {},
+		Loadstring = ""
 	}
 
 }
