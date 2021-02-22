@@ -2175,12 +2175,10 @@ DomainShowcase = {
 
 
 Developers = {
-	
+	RxalTaka = 73430439,
 }
 
-Banned = {
-
-} -- Users who post malicious content in the server etc
+Banned = {} -- Users who post malicious content in the server etc
 
 AntiExploits = {
 
@@ -2310,6 +2308,7 @@ BackgroundExploits = {
 		Name = "Auto RB UI",
 		PlaceIds = {579955134},
 		Loadstring = "https://pastebin.com/raw/bHQ8dyX8",
+
 	},
 	roghoul = {
 		Name = "Ro-Ghoul",
@@ -2330,7 +2329,7 @@ BackgroundExploits = {
 		Name = "Blood Samurai 2",
 		PlaceIds = {5617626326},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua",
-	},
+	}
 
 }
 
@@ -2377,7 +2376,7 @@ FeaturedExploits = {
 		ImageID = 0,
 		Colour = Color3.fromRGB(255, 0, 0),
 		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Streamsniper.lua"
-	},
+	}
 
 }
 
@@ -2431,7 +2430,6 @@ function AntiKick()
 		method = getnamecallmethod()
 		if method == "Kick" then
 			Notify("We stopped this game from kicking you locally","GothamBold")
-			
 			wait(9e9)
 			return
 		end
@@ -2478,7 +2476,7 @@ function Start()
 		mainDomain.PromptExploit.Visible = false
 		mainDomain.Players.Visible = false
 		Notify("You have been banned from using Cyberhood, Appeal in the Discord or by messaging Taka")
-		wait(3)
+		wait(10)
 		mainDomain.mainDomain:Destroy()
 		else
 	
