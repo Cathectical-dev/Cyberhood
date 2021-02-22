@@ -2334,8 +2334,8 @@ BackgroundExploits = {
 	},
 	carcrushers2 = {
 		Name = "Car Crushers 2 Autofarm",
-		PlaceIds = {},
-		Loadstring = ""
+		PlaceIds = {654732683},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/CarCrushers2Autofarm.lua"
 	}
 
 }
