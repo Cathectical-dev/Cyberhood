@@ -2337,7 +2337,6 @@ FeaturedExploits = {
 		Colour = Color3.fromRGB(85, 85, 127),
 		Code = "https://pastebin.com/raw/4iTCQwHd",
 	},
-
 	InfiniteYield = {
 		Name = "Infinite Yield",
 		Author = "Yiffer",
@@ -2352,21 +2351,41 @@ FeaturedExploits = {
 		Colour = Color3.fromRGB(255, 177, 20),
 		Code = "https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua"
 	},
-	saveinst = {
-		Name = "SaveInstance",
-		Author = "Synapse X",
-		ImageID = 0,
-		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://pastebin.com/raw/euzqMZgq"
-	},
 	unnamedesp = {
 		Name = "Unnamed ESP",
 		Author = "Synapse X",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
 	},
-
+	islands = {
+		Name = "Islands GUI",
+		Author = "The Void",
+		ImageID = 0,
+		Colour = Color3.fromRGB(71, 116, 170),
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+	},
+	badbusiness = {
+		Name = "Bad Business",
+		Author = "Taka",
+		ImageID = 0,
+		Colour = Color3.fromRGB(71, 116, 170),
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+	},
+	bloodsamurai = {
+		Name = "Blood Samurai",
+		Author = "Taka",
+		ImageID = 0,
+		Colour = Color3.fromRGB(71, 116, 170),
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+	},	
+	tappingmasters = {
+		Name = "Tapping Masters",
+		Author = "Taka",
+		ImageID = 0,
+		Colour = Color3.fromRGB(71, 116, 170),
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.txt"
+	},	
 
 }
 
