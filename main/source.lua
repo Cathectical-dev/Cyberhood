@@ -2320,17 +2320,17 @@ BackgroundExploits = {
 	badbusiness = {
 		badbusiness = "Bad Business",
 		PlaceIds = {3233893879},
-		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Bad%20Business.lua",
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Bad%20Business.lua"
 	},
 	islands = {
 		Name = "Islands",
 		PlaceIds = {4872321990},
-		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/islands.lua",
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/islands.lua"
 	},
 	bloodsamurai = {
 		Name = "Blood Samurai 2",
 		PlaceIds = {5617626326},
-		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua",
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Blood%20Samurai%202.lua"
 	},
 	carcrushers2 = {
 		Name = "Car Crushers 2 Autofarm",
@@ -2345,7 +2345,17 @@ BackgroundExploits = {
 	yourbizzaradventure  = {
 		Name = "Your Bizarre Adventure",
 		PlaceIds = {2809202155},
-		Loadstring = "https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",
+		Loadstring = "https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB"
+	},
+	rowizard = {
+		Name = "Ro-Wizard",
+		PlaceIds = {3082707367},
+		Loadstring = "https://pastebin.com/raw/cABME65h"
+	},
+	sciencesimulator = {
+		Name = "Science Simulator",
+		PlaceIds = {5414779423},
+		Loadstring = "https://raw.githubusercontent.com/Marco8642/science/main/science.lua"
 	}
 }
 
