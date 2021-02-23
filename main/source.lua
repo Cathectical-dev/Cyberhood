@@ -2341,6 +2341,11 @@ BackgroundExploits = {
 		Name = "A Universal Time",
 		PlaceIds = {5130598377},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/A_universal_time.lua"
+	},
+	yourbizzaradventure  = {
+		Name = "Your Bizarre Adventure",
+		PlaceIds = {2809202155},
+		Loadstring = "https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",
 	}
 }
 
