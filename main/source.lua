@@ -2356,6 +2356,11 @@ BackgroundExploits = {
 		Name = "Science Simulator",
 		PlaceIds = {5414779423},
 		Loadstring = "https://raw.githubusercontent.com/Marco8642/science/main/science.lua"
+	},
+	animefightingsim = {
+		Name = "Anime Fighting Simulator",
+		PlaceIds = {4042427666},
+		Loadstring = "https://scripts.mattlawz.dev/AnimeSim.lua"
 	}
 }
 
