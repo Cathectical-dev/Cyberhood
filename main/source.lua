@@ -2390,7 +2390,7 @@ BackgroundExploits = {
 		Name = "Free Animations : VIBE NYC",
 		PlaceIds = {5388509011},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vibenyc.lua"
-	}
+	},
 }
 
 AWords = {"serverhop","change server","change game","in a different game","other game"}
