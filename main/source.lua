@@ -2363,9 +2363,24 @@ BackgroundExploits = {
 		Loadstring = "https://scripts.mattlawz.dev/AnimeSim.lua"
 	},
 	openseas = {
-		Name = "The Open Seas"
+		Name = "The Open Seas",
 		PlaceIds = {2504590032},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/openseas.lua"
+	},
+	vehiclesim = {
+		Name = "Vehicle Simulator GUI",
+		PlaceIds = {171391948},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua"
+	},
+	wisteria = {
+		Name = "Wisteria GUI",
+		PlaceIds = {4723618670},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua" 
+	},
+	kingpiece = {
+		Name = "King Piece GUI",
+		PlaceIds = {4520749081},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua"
 	}
 }
 
