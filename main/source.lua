@@ -2361,6 +2361,11 @@ BackgroundExploits = {
 		Name = "Anime Fighting Simulator",
 		PlaceIds = {4042427666},
 		Loadstring = "https://scripts.mattlawz.dev/AnimeSim.lua"
+	},
+	openseas = {
+		Name = "The Open Seas"
+		PlaceIds = {2504590032},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/openseas.lua"
 	}
 }
 
