@@ -2246,6 +2246,11 @@ BackgroundExploits = {
 		PlaceIds = {30869879},
 		Loadstring = "https://pastebin.com/raw/hFxynXvs",
 	},
+		lumbertycoon = {
+			Name = "Lumbertycoon Money Duper",
+			PlaceIds = {13822889},
+			Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/lumbertycoon.lua",
+		}
 	doomspire = {
 		Name = "Doomspire UI",
 		PlaceIds = {1215581239},
@@ -2310,7 +2315,6 @@ BackgroundExploits = {
 		Name = "Auto RB UI",
 		PlaceIds = {579955134},
 		Loadstring = "https://pastebin.com/raw/bHQ8dyX8",
-
 	},
 	roghoul = {
 		Name = "Ro-Ghoul",
