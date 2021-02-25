@@ -2380,6 +2380,11 @@ BackgroundExploits = {
 		Name = "King Piece GUI",
 		PlaceIds = {4520749081},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua"
+	},
+	lumber = {
+		Name = "Lumber Tycoon Money Duper",
+		PlaceIds = {13822889},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/lumbertycoon.lua"
 	}
 }
 
