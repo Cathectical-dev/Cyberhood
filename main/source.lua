@@ -2310,7 +2310,6 @@ BackgroundExploits = {
 		Name = "Auto RB UI",
 		PlaceIds = {579955134},
 		Loadstring = "https://pastebin.com/raw/bHQ8dyX8",
-
 	},
 	roghoul = {
 		Name = "Ro-Ghoul",
@@ -2361,6 +2360,26 @@ BackgroundExploits = {
 		Name = "Anime Fighting Simulator",
 		PlaceIds = {4042427666},
 		Loadstring = "https://scripts.mattlawz.dev/AnimeSim.lua"
+	},
+	openseas = {
+		Name = "The Open Seas",
+		PlaceIds = {2504590032},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/openseas.lua"
+	},
+	vehiclesim = {
+		Name = "Vehicle Simulator GUI",
+		PlaceIds = {171391948},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua"
+	},
+	wisteria = {
+		Name = "Wisteria GUI",
+		PlaceIds = {4723618670},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua" 
+	},
+	kingpiece = {
+		Name = "King Piece GUI",
+		PlaceIds = {4520749081},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua"
 	}
 }
 
@@ -2399,7 +2418,7 @@ FeaturedExploits = {
 		Author = "Synapse X",
 		ImageID = 0,
 		Colour = Color3.fromRGB(71, 116, 170),
-		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/UnnamedESP.lua"
+		Code = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/Unnamed%20ESP.lua"
 	},
 	streamsniper = {
 		Name = "Streamsniper",
