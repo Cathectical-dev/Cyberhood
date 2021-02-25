@@ -2385,6 +2385,11 @@ BackgroundExploits = {
 		Name = "King Piece GUI",
 		PlaceIds = {4520749081},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vswikp.lua"
+	},
+	vibenyc = {
+		Name = "Free Animations : VIBE NYC",
+		PlaceIds = {5388509011},
+		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/vibenyc.lua"
 	}
 }
 
