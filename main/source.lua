@@ -2246,7 +2246,7 @@ BackgroundExploits = {
 		PlaceIds = {30869879},
 		Loadstring = "https://pastebin.com/raw/hFxynXvs",
 	},
-		lumbertycoon = {
+	lumbertycoon = {
 			Name = "Lumbertycoon Money Duper",
 			PlaceIds = {13822889},
 			Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/lumbertycoon.lua",
