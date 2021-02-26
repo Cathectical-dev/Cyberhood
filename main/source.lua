@@ -2385,6 +2385,11 @@ BackgroundExploits = {
 		Name = "Lumber Tycoon Money Duper",
 		PlaceIds = {13822889},
 		Loadstring = "https://raw.githubusercontent.com/Cathectical-dev/Cyberhood/master/Scripthub/lumbertycoon.lua"
+	},
+	basicallyfnf = {
+		Name = "Basically FNF Autoplayer",
+		PlaceIds = {6417009050},
+		Loadstring = "https://raw.githubusercontent.com/Wohxx/bruh/main/fnfauto"
 	}
 }
 
